@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.chainlit/
+.files/
+*.pth
+*.pt
+*.pkl
+.DS_Store
+.env
+.venv
+venv/
+env/
+*.egg-info/
+dist/
+build/
